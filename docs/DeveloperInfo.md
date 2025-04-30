@@ -1,1 +1,1 @@
-> Currently, The package manager [fpkg](https://github.com/FigSystems/fpkg) is being developed. Development on dalixOS is on hold until that is brought into a mature enough state.
+> Currently, The package manager [dpt](https://github.com/FigSystems/dpt) as well as the [packages repository](https://github.com/FigSystems/dalix-packages) is being developed. Development on dalixOS is currently happening there.
