@@ -1,0 +1,1 @@
+> Currently, The package manager [dpt](https://github.com/FigSystems/dpt) as well as the [packages repository](https://github.com/FigSystems/dalix-packages) is being developed. Development on dalixOS is currently happening there.
